@@ -1,0 +1,134 @@
+{D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Second_Register.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Second_Register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Second_Register
+
+Top level modules:
+	Second_Register
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/adder.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/adder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Control_unit.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Control_unit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Control_unit
+
+Top level modules:
+	Control_unit
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/mux3to1.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/mux3to1.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux3to1
+
+Top level modules:
+	mux3to1
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Hazard_unit.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Hazard_unit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Hazard_unit
+
+Top level modules:
+	Hazard_unit
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/testbench/Risc_v_pipelined_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/testbench/Risc_v_pipelined_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Risc_v_pipelined_tb
+
+Top level modules:
+	Risc_v_pipelined_tb
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Fourth_register.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Fourth_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Fourth_register
+
+Top level modules:
+	Fourth_register
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/registerfile.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/registerfile.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Fifth_register.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Fifth_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Fifth_register
+
+Top level modules:
+	Fifth_register
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Third_register.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Third_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Third_register
+
+Top level modules:
+	Third_register
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/controlunit.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/controlunit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module controlunit
+
+Top level modules:
+	controlunit
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/datamem.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/datamem.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module datamem
+
+Top level modules:
+	datamem
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/mux.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/mux.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/alu.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/alu.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/alucontrol.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/alucontrol.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alucontrol
+
+Top level modules:
+	alucontrol
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/First_register.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/First_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module First_register
+
+Top level modules:
+	First_register
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/immext.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/immext.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module immext
+
+Top level modules:
+	immext
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/instmem.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/instmem.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module instmem
+
+Top level modules:
+	instmem
+
+} {} {}} {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Risc_v_pipelined.v} {1 {vlog -work work -vopt -stats=none {D:/Advanced Computer Architecture/BTL GK/Pipelined processor/5-Staged-Pipelined-RISC-V-32I-Processor-main/design/Risc_v_pipelined.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Risc_v_pipelined
+
+Top level modules:
+	Risc_v_pipelined
+
+} {} {}}
